@@ -1,48 +1,98 @@
-<h1 align="center">Hi 👋, I'm Muhammed R</h1>
-<h3 align="center">Software developer in Kerala · Founder &amp; CEO of PulseTap and MyOtherApp</h3>
+<p align="center">
+  <img src="assets/banner.jpg" alt="Muhammed R — Software Developer, Founder & CEO of PulseTap and MyOtherApp" width="100%">
+</p>
 
 <p align="center">
-  <a href="https://www.muhammedr.me"><b>muhammedr.me</b></a> &nbsp;·&nbsp;
-  <a href="https://pulsetap.in">PulseTap</a> &nbsp;·&nbsp;
-  <a href="https://myotherapp.in">MyOtherApp</a>
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=26&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&lines=Flutter+%7C+Django+%7C+Embedded+Systems;Founder+%26+CEO+-+PulseTap+%2B+MyOtherApp;30%2B+projects+shipped+from+Kerala" alt="Flutter, Django, embedded systems — Founder & CEO of PulseTap and MyOtherApp">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.muhammedr.me"><img src="https://img.shields.io/badge/Portfolio-muhammedr.me-0A0A0A?style=for-the-badge&logoColor=white&logo=safari" alt="Portfolio"></a>
+  <a href="https://pulsetap.in"><img src="https://img.shields.io/badge/PulseTap-pulsetap.in-0A0A0A?style=for-the-badge&logoColor=white&logo=nfc" alt="PulseTap"></a>
+  <a href="https://myotherapp.in"><img src="https://img.shields.io/badge/MyOtherApp-myotherapp.in-0A0A0A?style=for-the-badge&logoColor=white&logo=ticketmaster" alt="MyOtherApp"></a>
+  <a href="mailto:contact@muhammedr.me"><img src="https://img.shields.io/badge/Email-contact@muhammedr.me-0A0A0A?style=for-the-badge&logoColor=white&logo=maildotru" alt="Email"></a>
 </p>
 
 ---
 
-### What I'm building
+## 🚀 What I'm building
 
-- **[PulseTap](https://pulsetap.in)** — an NFC business card backed by a rewritable profile. One tap shares everything: no app, no typing, no reprints.
-- **[MyOtherApp](https://myotherapp.in)** — events and clubs near you. Hackathons, workshops and meetups, from the clubs that run them.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### About me
+<a href="https://pulsetap.in"><img src="assets/pulsetap.jpg" alt="PulseTap — the last card you'll ever print" width="100%"></a>
 
-- 🔭 I move between software and hardware without much ceremony — Flutter apps, Django backends, and embedded boards that usually start on a breadboard
-- 📱 30+ projects shipped across web, Android and iOS
-- 🤖 Interested in robotics, embedded systems and AI automation
-- 🌍 Based in Kerala, India
-- 📫 Reach me at **contact@muhammedr.me**
+### PulseTap
 
-### Languages and Tools
+A precision **NFC business card** backed by a profile you can rewrite anytime. One tap sends everything — no app, no typing, no reprints.
+
+Change jobs and keep the card: point it at a new profile in two taps, and the one already in someone's wallet still works.
+
+**Founder & CEO** · Feb 2025 — present
+<a href="https://pulsetap.in">pulsetap.in&nbsp;↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://myotherapp.in"><img src="assets/myotherapp.jpg" alt="MyOtherApp — find your people, show up" width="100%"></a>
+
+### MyOtherApp
+
+**Events and clubs near you.** Hackathons, workshops and meetups from the student clubs that actually run them — find one this week and grab a spot in a tap.
+
+Clubs get a home rather than a broadcast, so the next thing they organise reaches the people who came to the last one.
+
+**Founder & CEO** · Oct 2026 — present
+<a href="https://myotherapp.in">myotherapp.in&nbsp;↗</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Stack
 
 <p align="left">
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logoColor=white&logo=flutter" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0A0A0A?style=for-the-badge&logoColor=white&logo=dart" alt="Dart">
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logoColor=white&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Django-0A0A0A?style=for-the-badge&logoColor=white&logo=django" alt="Django">
+  <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logoColor=white&logo=nextdotjs" alt="Next.js">
+  <img src="https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logoColor=white&logo=firebase" alt="Firebase">
+  <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logoColor=white&logo=mysql" alt="MySQL">
+  <img src="https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logoColor=white&logo=vercel" alt="Vercel">
+  <img src="https://img.shields.io/badge/Arduino-0A0A0A?style=for-the-badge&logoColor=white&logo=arduino" alt="Arduino">
+  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logoColor=white&logo=git" alt="Git">
 </p>
 
-### Connect with me
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img width="57%" src="https://github-readme-stats.vercel.app/api?username=muhammedr7025&show_icons=true&bg_color=0a0a0a&title_color=ffffff&text_color=8a8a8a&icon_color=ffffff&border_color=222222&include_all_commits=true&rank_icon=github" alt="GitHub stats">
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedr7025&layout=compact&langs_count=8&bg_color=0a0a0a&title_color=ffffff&text_color=8a8a8a&border_color=222222" alt="Most used languages">
+</p>
+
+---
+
+## 🤝 Connect
 
 <p align="left">
-<a href="https://x.com/muhammedr7025" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammedr7025 on X" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammed-r" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-r on LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/muhammed._.r/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammed._.r on Instagram" height="30" width="40" /></a>
-<a href="https://medium.com/@muhammedr7025" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="muhammedr7025 on Medium" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/muhammed-r"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logoColor=white&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://x.com/muhammedr7025"><img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logoColor=white&logo=x" alt="X"></a>
+  <a href="https://www.instagram.com/muhammed._.r/"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logoColor=white&logo=instagram" alt="Instagram"></a>
+  <a href="https://medium.com/@muhammedr7025"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logoColor=white&logo=medium" alt="Medium"></a>
+  <a href="https://www.muhammedr.me"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logoColor=white&logo=googlechrome" alt="Website"></a>
+</p>
+
+<br>
+
+<p align="center">
+  <sub><i>Based in Kerala, India · Always building something.</i></sub>
 </p>
